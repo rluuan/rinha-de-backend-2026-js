@@ -17,8 +17,8 @@ services:
           memory: 30MB
 
   api-1:
-    image: rinha2026-api
-    build: .
+    image: rluuan1/rinha2026-api:latest
+    
     environment:
       PORT: "9999"
     healthcheck:
@@ -33,8 +33,8 @@ services:
           memory: 160MB
 
   api-2:
-    image: rinha2026-api
-    build: .
+    image: rluuan1/rinha2026-api:latest
+    
     environment:
       PORT: "9999"
     healthcheck:
