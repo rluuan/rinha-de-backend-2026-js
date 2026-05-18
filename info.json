@@ -1,0 +1,7 @@
+{
+    "participants": ["Luan"],
+    "social": ["https://github.com/rluuan"],
+    "source-code-repo": "https://github.com/rluuan/rinha-de-backend-2026-js",
+    "stack": ["nodejs", "nginx", "k-means"],
+    "open_to_work": true
+}
