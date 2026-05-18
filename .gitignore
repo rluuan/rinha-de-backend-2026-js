@@ -1,0 +1,20 @@
+# Dados grandes do desafio (baixados do repo oficial; não versionar)
+/data/references.json.gz
+/data/references.json
+/testdata/test-data.json
+
+# Índice binário gerado
+*.bin
+/index.bin
+
+# Binários Go
+/bin/
+/api
+/buildindex
+*.exe
+
+# Resultados de teste
+/test/results.json
+
+# Sistema
+.DS_Store
